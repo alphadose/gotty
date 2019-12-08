@@ -1,7 +1,10 @@
+github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/NYTimes/gziphandler v0.0.0-20170804200234-967539e5e271 h1:rEXtCtsQnEC8QeWYL2BpqmOuondcABYaKHux21ddDns=
 github.com/NYTimes/gziphandler v0.0.0-20170804200234-967539e5e271/go.mod h1:3wb06e3pkSAbeQ52E9H9iFoQsEEwGN64994WTCIhntQ=
 github.com/codegangsta/cli v1.19.1 h1:+wkU9+nidApJ051CVhVGnj5li64qOfLPz7eZMn2DPXw=
 github.com/codegangsta/cli v1.19.1/go.mod h1:/qJNoX69yVSKu5o4jLyXAENLRyk1uhi7zkbQ3slBdOA=
+github.com/cpuguy83/go-md2man/v2 v2.0.0-20190314233015-f79a8a8ca69d h1:U+s90UTSYgptZMwQh2aRr3LuazLJIa+Pg3Kc1ylSYVY=
+github.com/cpuguy83/go-md2man/v2 v2.0.0-20190314233015-f79a8a8ca69d/go.mod h1:maD7wRr/U5Z6m/iR4s+kqSMx2CaBsrgA7czyZG/E6dU=
 github.com/elazarl/go-bindata-assetfs v0.0.0-20150813044622-d5cac425555c h1:Knqh8y6EeTJQ3FZsqdRq7XfB7/RimWQjBtO4YRzUgcE=
 github.com/elazarl/go-bindata-assetfs v0.0.0-20150813044622-d5cac425555c/go.mod h1:v+YaWX3bdea5J/mo8dSETolEo7R71Vk1u8bnjau5yw4=
 github.com/fatih/structs v0.0.0-20150526064352-a9f7daa9c272 h1:0fRL8zAP1oZiyz+nKKlJsW7yAIHeIjMOCr4fmGximHk=
@@ -14,6 +17,15 @@ github.com/kr/pty v0.0.0-20150511174710-5cf931ef8f76 h1:i5TIRQpbCg4aJMUtVHIhkQnS
 github.com/kr/pty v0.0.0-20150511174710-5cf931ef8f76/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
 github.com/pkg/errors v0.0.0-20161029093637-248dadf4e906 h1:aXc/AM323HlkOXjl3QuSO06wbXK45HrzBT+pwVOufXg=
 github.com/pkg/errors v0.0.0-20161029093637-248dadf4e906/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/russross/blackfriday/v2 v2.0.1 h1:lPqVAte+HuHNfhJ/0LC98ESWRz8afy9tM/0RK8m9o+Q=
+github.com/russross/blackfriday/v2 v2.0.1/go.mod h1:+Rmxgy9KzJVeS9/2gXHxylqXiyQDYRxCVz55jmeOWTM=
+github.com/shurcooL/sanitized_anchor_name v1.0.0 h1:PdmoCO6wvbs+7yrJyMORt4/BmY5IYyJwS/kOiWx8mHo=
+github.com/shurcooL/sanitized_anchor_name v1.0.0/go.mod h1:1NzhyTcUVG4SuEtjjoZeVRXNmyL/1OwPU0+IJeTBvfc=
+github.com/urfave/cli v1.22.2 h1:gsqYFH8bb9ekPA12kRo0hfjngWQjkJPlN9R0N78BoUo=
+github.com/urfave/cli v1.22.2/go.mod h1:Gos4lmkARVdJ6EkW0WaNv/tZAAMe9V7XWyB60NtXRu0=
 github.com/yudai/gotty v1.0.1 h1:mV4gD2U4g7bPUvVzn49ddRyaMI4Rg5r5nHjkoPClGA4=
 github.com/yudai/hcl v0.0.0-20151013225006-5fa2393b3552 h1:tjsK9T2IA3d2FFNxzDP7AJf+EXhyuPd7PB4Z2HrtAoc=
 github.com/yudai/hcl v0.0.0-20151013225006-5fa2393b3552/go.mod h1:hg0ZaCmQL3rze1cH8Fh2g0a9q8vQs0uN8ESpePEwSEw=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v2 v2.2.2/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=

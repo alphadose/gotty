@@ -9,7 +9,7 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/codegangsta/cli"
+	"github.com/urfave/cli"
 
 	"github.com/alphadose/gotty/backend/localcommand"
 	"github.com/alphadose/gotty/pkg/homedir"
